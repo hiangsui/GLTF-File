@@ -827,7 +827,7 @@
     }
   ],
   "scene": 0,
-  "Cake": [
+  "scenes": [
     {
       "name": "Cake",
       "nodes": [
