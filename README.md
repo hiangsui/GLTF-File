@@ -1,2 +1,2 @@
-# GTLF-File
-for host file GTLF
+# GLTF-File
+for host file GLTF
