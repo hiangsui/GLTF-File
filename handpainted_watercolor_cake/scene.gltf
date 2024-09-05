@@ -827,9 +827,9 @@
     }
   ],
   "scene": 0,
-  "scenes": [
+  "Cake": [
     {
-      "name": "Sketchfab_Scene",
+      "name": "Cake",
       "nodes": [
         0
       ]
